@@ -4,7 +4,12 @@
 
 `DecTask`是一款简单高效、基于敏捷开发的项目管理工具，以事项驱动和敏捷开发最佳实践作为设计思想，适用于互联网团队进行高效协作和敏捷开发，交付极致卓越的产品。
 
-官方网站 [[菜鸟教程](https://dectask.com)](https://dectask.com)  
+官方网站 [https://dectask.com](https://dectask.com)  
+
+原masterlab源代码 位于 masterlab分支 或下载tag包 https://github.com/gopeak/masterlab/releases/tag/v3.3.11
+
+
+
 
 
 ## 技术架构
