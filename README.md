@@ -6,7 +6,7 @@
 
 官方网站 [https://dectask.com](https://dectask.com)  
 
-原masterlab源代码 位于 masterlab分支 或下载tag包 https://github.com/gopeak/masterlab/releases/tag/v3.3.11
+原masterlab源代码 位于 masterlab分支 或下载tag包 https://github.com/gopeak/dectask/releases/tag/v3.3.11
 
 
 
